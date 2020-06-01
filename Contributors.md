@@ -9,4 +9,4 @@
 | ☆ | Avisek Shaw | [shawavisek35](https://github.com/shawavisek35/) | [shawavisek35](https://twitter.com/AvisekShaw5) | [Avisek Shaw](https://www.linkedin.com/in/avisek-shaw-78136b196/) |
 | ☆ | Arnab Mandal | [Arnab9674](https://github.com/Arnab9674/) | shdghv | svcgv |
 | ☆ | Debargha Dutta| Debargha2001| abcd | Debargha Dutta |
-| ☆ | Hasibul Islam | [starhasibul](https://github.com/starhasibul/) | [starhasibul](https://twitter.com/starhasibul) | [starhasibul](http://linkedin.com/in/hasibul-islam-2aa623196) |
+| ☆ | Hasibul Islam | [starhasibul](https://github.com/starhasibul/) | [starhasibul](https://twitter.com/starhasibul) | [Hasibul Islam](http://linkedin.com/in/hasibul-islam-2aa623196) |
