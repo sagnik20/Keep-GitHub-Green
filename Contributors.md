@@ -6,4 +6,5 @@
 | ☆ | Name | Github | Twitter | LinkedIn |
 | --- | --- | --- | --- | --- |
 | ☆ | Sagnik Chattopadhyaya | [Sagnik20](https://github.com/sagnik20/) | [Sagnik_20](https://twitter.com/sagnik_20) | [Sagnik Chattopadhyaya](https://www.linkedin.com/in/sagnik-chattopadhyaya/) |
-| ☆ | Arnab Mandal | [Arnab9674](https://github.com/Arnab9674/) |
+| ☆ | Avisek Shaw | [shawavisek35](https://github.com/shawavisek35/) | [shawavisek35](https://twitter.com/AvisekShaw5) | [Avisek Shaw](https://www.linkedin.com/in/avisek-shaw-78136b196/) |
+| ☆ | Arnab Mandal | [Arnab9674](https://github.com/Arnab9674/) | shdghv | svcgv |

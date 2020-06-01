@@ -47,7 +47,7 @@ where `Your_Username` is your GitHub username. Here you're copying the contents 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd Practical-Files
+cd Keep-Github-Green
 ```
 Now create a branch using the `git checkout` command:
 ```
