@@ -37,7 +37,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 ```
-git clone https://github.com/Your_Username/Practical-Files.git
+git clone https://github.com/Your_Username/Keep-Github-Green.git
 
 ```
 where `Your_Username` is your GitHub username. Here you're copying the contents of the Practical-Files repository on GitHub to your computer.
