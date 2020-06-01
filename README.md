@@ -1,6 +1,4 @@
-# Keep-Github-Green
-
-# Welcome to Practical Files :books:
+# Keep-Github-Green :books:
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/Keep-Github-Green/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/Keep-Github-Green)](https://github.com/sagnik20/Keep-Github-Green/issues)
 [![GitHub forks](https://img.shields.io/github/forks/sagnik20/Keep-Github-Green?style=social)](https://github.com/sagnik20/Keep-Github-Green/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/Keep-Github-Green?style=social)](https://github.com/sagnik20/Keep-Github-Green/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -70,7 +68,8 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add .` command:
 
 ```
-git add Contributors.md
+git add <file name>
+or
 git add .
 ```
 
@@ -98,4 +97,4 @@ Soon, I'll be merging all your changes into the master branch of this project. Y
 
 Your contribution matters. Thank you for contributing! :sparkles:
 
-*Created and Maintained with :sparkling_heart:, by [Hemshree](https://twitter.com/hemshree_madaan)*
+*Created and Maintained with :sparkling_heart:, by [Sagnik](https://twitter.com/sagnik_20)*
