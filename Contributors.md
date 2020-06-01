@@ -11,4 +11,4 @@
 | ☆ | Debargha Dutta| Debargha2001| abcd | Debargha Dutta |
 | ☆ | Priti Km Shaw | [Pritikmshaw](https://github.com/pritikmshaw/) | [Pritikmshaw](https://twitter.com/Prityshaw2) | [Priti Shaw]
 | ☆ | Hasibul Islam | [starhasibul](https://github.com/starhasibul/) | [starhasibul](https://twitter.com/starhasibul) | [Hasibul Islam](http://linkedin.com/in/hasibul-islam-2aa623196) |
-| ☆ | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365/) | [snehashis_2000](https://https://twitter.com/snehashis_2000) | [Snehashis Sarkar]
+| ☆ | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365/) | [snehashis_2000](https://twitter.com/snehashis_2000) | [Snehashis Sarkar]
