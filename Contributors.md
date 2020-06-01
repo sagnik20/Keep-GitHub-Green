@@ -9,4 +9,4 @@
 | ☆ | Avisek Shaw | [shawavisek35](https://github.com/shawavisek35/) | [shawavisek35](https://twitter.com/AvisekShaw5) | [Avisek Shaw](https://www.linkedin.com/in/avisek-shaw-78136b196/) |
 | ☆ | Arnab Mandal | [Arnab9674](https://github.com/Arnab9674/) | shdghv | svcgv |
 | ☆ | Debargha Dutta| Debargha2001| abcd | Debargha Dutta |
-
+| ☆ | Priti Km Shaw | [Pritikmshaw](https://github.com/pritikmshaw/) | [Pritikmshaw](https://twitter.com/Prityshaw2) | [Priti Shaw]
