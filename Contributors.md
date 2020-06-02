@@ -14,3 +14,5 @@
 | ☆ | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365/) | [snehashis_2000](https://twitter.com/snehashis_2000) | [Snehashis Sarkar]
 | ☆ | Hemshree Madaan | [Hemshree](https://github.com/Hemshree/) | [hemshree_madaan](https://twitter.com/hemshree_madaan) | [Hemshree Madaan](https://www.linkedin.com/in/hemshree-madaan/) |
 | ☆ | Nadeem Akhter | [nadeemakhter0602](https://github.com/nadeemakhter0602/) | Not Applicable | [Nadeem Akhter](https://www.linkedin.com/in/nadeem-a-017470189/) |
+| ☆ | Subhayu Kumar Bala | [subhayu99](https://github.com/subhayu99) | [dhrub](https://mobile.twitter.com/__dhrub__) | [subhayu_kumar_bala](https://www.linkedin.com/in/subhayu-kumar-bala) |
+| ☆ |
