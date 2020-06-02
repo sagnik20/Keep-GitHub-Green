@@ -12,4 +12,4 @@
 | ☆ | Priti Km Shaw | [Pritikmshaw](https://github.com/pritikmshaw/) | [Pritikmshaw](https://twitter.com/Prityshaw2) | [Priti Shaw]
 | ☆ | Hasibul Islam | [starhasibul](https://github.com/starhasibul/) | [starhasibul](https://twitter.com/starhasibul) | [Hasibul Islam](http://linkedin.com/in/hasibul-islam-2aa623196) |
 | ☆ | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365/) | [snehashis_2000](https://twitter.com/snehashis_2000) | [Snehashis Sarkar]
-| ☆ | Hemshree Madaan | [Hemshree](https://github.com/Hemshree/) | [hemshree_madaan](https://twitter.com/hemshree_madaan) | [Hemshree Madaan] (https://www.linkedin.com/in/hemshree-madaan/) |
+| ☆ | Hemshree Madaan | [Hemshree](https://github.com/Hemshree/) | [hemshree_madaan](https://twitter.com/hemshree_madaan) | [Hemshree Madaan](https://www.linkedin.com/in/hemshree-madaan/) |
