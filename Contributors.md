@@ -19,4 +19,7 @@
 | ☆ | Nadeem Akhter | [nadeemakhter0602](https://github.com/nadeemakhter0602/) | Not Applicable | [Nadeem Akhter](https://www.linkedin.com/in/nadeem-a-017470189/) |
 | ☆ | Subhayu Kumar Bala | [subhayu99](https://github.com/subhayu99) | [dhrub](https://mobile.twitter.com/__dhrub__) | [subhayu_kumar_bala](https://www.linkedin.com/in/subhayu-kumar-bala) |
 | ☆ | Ayush Aryan | [Ayush](https://github.com/aryan2574) | [Ayush](https://twitter.com/aryan2574) | [Ayush](https://www.linkedin.com/in/aryan2574/) |
+<<<<<<< HEAD
 >>>>>>> ca80e8bb9f6a37270acd0832ec0f8ac5d59293db
+=======
+>>>>>>> 3f241b24e967a97ee32e6e219ce12bd1e58eb645
